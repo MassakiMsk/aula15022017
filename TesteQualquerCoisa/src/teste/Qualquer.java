@@ -1,6 +1,7 @@
 package teste;
 
-//Versão 1
+//Versão 2
 public class Qualquer {
+	int a = 0;
 
 }
